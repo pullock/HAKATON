@@ -29,7 +29,7 @@
 Для этого есть дополнительная ссылка на Гитхаб
 
 
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/pullock/HAKATON/raw/main/123.jpg))
+![Иллюстрация к проекту](https://github.com/pullock/HAKATON/raw/main/123.jpg)
 
 
  
